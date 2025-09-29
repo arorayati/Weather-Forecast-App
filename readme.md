@@ -12,7 +12,8 @@ Heat Alerts
 Input Validation & error Messages
 Dynamic Backgrounds
 Uses Local Storage
-Toggle Available between Units.
+Toggle Available between Units. 
+
 
 
 
