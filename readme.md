@@ -5,7 +5,7 @@ fetches Data from the OpenWeatherMap API and show current weather forecast and m
 
 #Features 
 1) Searching Weather Information by the city Name
-Uses Current Location
+2) Uses Current Location
 Search Dropdown 
 5 days Forecast 
 Heat Alerts 
