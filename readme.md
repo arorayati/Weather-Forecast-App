@@ -8,11 +8,11 @@ fetches Data from the OpenWeatherMap API and show current weather forecast and m
 2) Uses Current Location
 3) Search Dropdown 
 4) 5 days Forecast 
-Heat Alerts 
-Input Validation & error Messages
-Dynamic Backgrounds
-Uses Local Storage
-Toggle Available between Units. 
+5) Heat Alerts 
+6) Input Validation & error Messages
+7) Dynamic Backgrounds
+8) Uses Local Storage
+9) Toggle Available between Units. 
 
 
 
