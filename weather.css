@@ -1,0 +1,31 @@
+
+/* Button Styling*/
+
+.btn {
+  background-color: #0284c7; 
+  color: #fff;              
+  border-radius: 0.375rem;   
+  padding-left: 0.75rem;    
+  padding-right: 0.75rem;    
+  padding-top: 0.5rem;       
+  padding-bottom: 0.5rem;    
+  transition: background-color 0.2s;
+}
+
+.btn:hover {
+  background-color: #0369a1; 
+}
+
+/* error box styling */
+
+#errorBox {
+  border-left: 4px solid #ef4444; 
+  background-color: #fef2f2;      
+  color: #b91c1c;                 
+  padding: 0.75rem;               
+  border-radius: 0.25rem;         
+  margin-top: 0.5rem;          
+}
+
+/* show/hide helper */
+.hidden { display: none; }
