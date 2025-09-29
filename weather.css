@@ -1,3 +1,4 @@
+/* CSS Styling*/ 
 
 /* Button Styling*/
 
@@ -10,7 +11,9 @@
   padding-top: 0.5rem;       
   padding-bottom: 0.5rem;    
   transition: background-color 0.2s;
-}
+} 
+
+/* Hover effect*/ 
 
 .btn:hover {
   background-color: #0369a1; 
@@ -28,4 +31,6 @@
 }
 
 /* show/hide helper */
-.hidden { display: none; }
+.hidden  { 
+    display: none;
+  };

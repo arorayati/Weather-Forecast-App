@@ -346,3 +346,4 @@ function displayForecastCards(forecastData) {
 populateRecentDropdown();
 
 
+
