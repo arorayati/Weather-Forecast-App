@@ -341,7 +341,7 @@ function displayForecastCards(forecastData) {
   });
 }
 
-// initial load//
+// initial loading //
 
 populateRecentDropdown();
 
